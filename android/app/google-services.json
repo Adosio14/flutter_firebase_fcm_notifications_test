@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "55087361100",
+    "project_id": "prueba-notificaciones-c764d",
+    "storage_bucket": "prueba-notificaciones-c764d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55087361100:android:f2ae4ba0eb203a441658e9",
+        "android_client_info": {
+          "package_name": "com.example.notifications_services"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqOP_88gX9K5pB2zhBojRqXiljiBRbRFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55087361100:android:61131cf06836d5e41658e9",
+        "android_client_info": {
+          "package_name": "com.example.notifications_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqOP_88gX9K5pB2zhBojRqXiljiBRbRFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
